@@ -8,6 +8,10 @@ Data & Analytics professional focused on SQL, Python, Power BI, and Web3 analyti
 ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=databricks&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+
 ## Hi there 👋
 
 ### What I do
