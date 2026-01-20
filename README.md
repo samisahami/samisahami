@@ -17,7 +17,7 @@
 ---
 
 
-👋 I turn messy data into million-dollar decisions.
+👋 I turn messy, real-world data into trusted analytics models and decision-ready metrics.
 
 Data Analyst & Analytics Engineer specializing in healthcare and Web3 analytics. 
 I build end-to-end systems that executives actually trust and use.
