@@ -23,10 +23,15 @@ Data Analyst & Analytics Engineer specializing in healthcare and Web3 analytics.
 I build end-to-end systems that executives actually trust and use.
 
 ### What I do
-- Build **SQL- and Python-driven pipelines** for business and Web3 use cases  
-- Design **Power BI dashboards** focused on decisions, not vanity metrics  
-- Apply **analytics engineering principles** (modeling, transformations, metrics layers)  
-- Translate messy, real-world data into **clean insights for non-technical stakeholders**
+Build production-style SQL & Python pipelines for business and Web3 analytics
+
+Design analytics-ready data models (staging → marts) using analytics engineering principles
+
+Define and validate core business metrics to ensure consistency across teams
+
+Implement data quality checks and validation logic to prevent downstream reporting errors
+
+Translate complex data into insights that non-technical stakeholders can confidently act on
 
 👉 See my work in the **Portfolio** button above.
 
