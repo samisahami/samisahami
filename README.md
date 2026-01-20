@@ -40,7 +40,7 @@ Translate complex data into insights that non-technical stakeholders can confide
 ## Featured Projects
 
 ### 🔹 Wallet Churn Prediction Pipeline
-End-to-end churn modeling using Python, SQL, and BI dashboards. Includes ETL, feature engineering, and predictive modeling.  
+End-to-end analytics engineering pipeline for churn analysis, including ETL, analytics modeling, feature engineering, metric definitions, and BI consumption. Includes ETL, feature engineering, and predictive modeling.  
 → https://github.com/samisahami/wallet-churn-pipeline
 
 ### 🔹 Web3 Growth & Retention Analytics
