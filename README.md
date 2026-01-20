@@ -16,9 +16,11 @@
 
 ---
 
-## Hi there 👋
 
-I build end-to-end analytics systems — from raw data to stakeholder-ready insights — with a strong focus on data reliability, business logic, and decision-making.
+👋 I turn messy data into million-dollar decisions.
+
+Data Analyst & Analytics Engineer specializing in healthcare and Web3 analytics. 
+I build end-to-end systems that executives actually trust and use.
 
 ### What I do
 - Build **SQL- and Python-driven pipelines** for business and Web3 use cases  
