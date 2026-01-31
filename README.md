@@ -17,7 +17,8 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?logo=blockchaindotcom&logoColor=white)
 ![Healthcare](https://img.shields.io/badge/Healthcare-0078D7?logo=healthcare&logoColor=white)
-[![Dune](https://img.shields.io/badge/Dune-Analytics-FF6B00?style=for-the-badge&logo=dune&logoColor=white)](https://dune.com/samansahami)
+[![Dune](https://img.shields.io/badge/Dune-Analytics-FF6B00?style=flat&logo=dune&logoColor=white)](https://dune.com/samansahami)
+
 
 ---
 
