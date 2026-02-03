@@ -49,15 +49,21 @@ Translate complex data into insights that non-technical stakeholders can confide
 End-to-end analytics engineering pipeline for churn analysis, including ETL, analytics modeling, feature engineering, metric definitions, and BI consumption. Includes ETL, feature engineering, and predictive modeling.  
 → https://github.com/samisahami/wallet-churn-pipeline
 
+### 🔹 **Healthcare Claims & Eligibility Analytics Pipeline**
+  
+End-to-end healthcare analytics engineering pipeline for claims, eligibility, and benefits data, designed to mirror production PBM and payer workflows.
+ → https://github.com/samisahami/healthcare-claims-ae-pipeline
+**Tools:** SQL, Python, dbt-style modeling, data validation logic, Power BI / Tableau
+
+### 🔹 Web3 Growth & Retention Analytics
+On-chain behavioral analytics using SQL + Power BI to analyze user growth, retention, and drop-off patterns.  
+→ https://github.com/samisahami/PortfolioProjects/tree/main/crypto-growth-analytics-dashboard
+
 ### 🔹 HR Analytics Dashboard
 Workforce analytics project analyzing attrition, tenure, and employee trends using BI dashboards and SQL.
 
 **Tools:** Power BI, SQL
 → https://github.com/samisahami/PortfolioProjects/tree/main/HR_Analytics_Dashboard
-
-### 🔹 Web3 Growth & Retention Analytics
-On-chain behavioral analytics using SQL + Power BI to analyze user growth, retention, and drop-off patterns.  
-→ https://github.com/samisahami/PortfolioProjects/tree/main/crypto-growth-analytics-dashboard
 
 ### 🔹 AI Governance & Risk (GRC)
 Exploratory notebooks analyzing AI compliance frameworks, risk patterns, and governance considerations.  
