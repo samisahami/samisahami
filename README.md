@@ -23,7 +23,7 @@
 ---
 
 
-👋 I turn messy, real-world data into trusted analytics models and decision-ready metrics.
+👋 I turn messy, real-world data into analytics models people actually trust and use.
 
 Data Analyst & Analytics Engineer specializing in healthcare and Web3 analytics. 
 I build end-to-end systems that executives actually trust and use.
@@ -45,15 +45,23 @@ Translate complex data into insights that non-technical stakeholders can confide
 
 ## Featured Projects
 
-### 🔹 Wallet Churn Prediction Pipeline
-End-to-end analytics engineering pipeline for churn analysis, including ETL, analytics modeling, feature engineering, metric definitions, and BI consumption. Includes ETL, feature engineering, and predictive modeling.  
-→ https://github.com/samisahami/wallet-churn-pipeline
+### 🔹 PBM Prior Authorization Analytics Engineering Pipeline
+
+End-to-end analytics engineering pipeline modeling prior authorization workflows in a PBM context.  
+Built with dbt-style transformations, analytics-ready marts, and validation logic to support operational and clinical decision-making.
+
+**Tools:** SQL, Python, dbt, data validation, analytics engineering  
+📁 Folder: https://github.com/samisahami/pbm-prior-auth-ae-pipeline
 
 ### 🔹 **Healthcare Claims & Eligibility Analytics Pipeline**
   
 End-to-end healthcare analytics engineering pipeline for claims, eligibility, and benefits data, designed to mirror production PBM and payer workflows.
  → https://github.com/samisahami/healthcare-claims-ae-pipeline
 **Tools:** SQL, Python, dbt-style modeling, data validation logic, Power BI / Tableau
+
+### 🔹 Wallet Churn Prediction Pipeline
+End-to-end analytics engineering pipeline for churn analysis, including ETL, analytics modeling, feature engineering, metric definitions, and BI consumption. Includes ETL, feature engineering, and predictive modeling.  
+→ https://github.com/samisahami/wallet-churn-pipeline
 
 ### 🔹 Web3 Growth & Retention Analytics
 On-chain behavioral analytics using SQL + Power BI to analyze user growth, retention, and drop-off patterns.  
@@ -64,7 +72,3 @@ Workforce analytics project analyzing attrition, tenure, and employee trends usi
 
 **Tools:** Power BI, SQL
 → https://github.com/samisahami/PortfolioProjects/tree/main/HR_Analytics_Dashboard
-
-### 🔹 AI Governance & Risk (GRC)
-Exploratory notebooks analyzing AI compliance frameworks, risk patterns, and governance considerations.  
-→ https://github.com/samisahami/AI--GRC
