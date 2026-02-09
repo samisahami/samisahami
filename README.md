@@ -79,4 +79,5 @@ Workforce analytics project analyzing attrition, tenure, and employee trends usi
 
 ### 📈 GitHub Analytics
 [![Sam's Stats](https://github-readme-stats.vercel.app/api?username=samisahami&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/samisahami)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samisahami&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samisahami&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/samisahami)
