@@ -72,3 +72,11 @@ Workforce analytics project analyzing attrition, tenure, and employee trends usi
 
 **Tools:** Power BI, SQL
 → https://github.com/samisahami/PortfolioProjects/tree/main/HR_Analytics_Dashboard
+
+---
+
+### 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samisahami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sam's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samisahami&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
