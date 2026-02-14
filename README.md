@@ -1,8 +1,9 @@
 # Sam Sahami
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](YOUR_LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github)](YOUR_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github)](https://github.com/samisahami/PortfolioProjects)
 [![GitHub](https://img.shields.io/badge/GitHub-gray?style=flat&logo=github)](https://github.com/samisahami)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.https://www.linkedin.com/in/sam-sahami-88841519b/)
+
 
 **Data Analyst & Analytics Engineer** turning complex healthcare and Web3 data into reliable, decision-ready insights.
 
