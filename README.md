@@ -48,31 +48,55 @@ Translate complex data into insights that non-technical stakeholders can confide
 
 ### 🔹 PBM Prior Authorization Analytics Engineering Pipeline
 
-End-to-end analytics engineering pipeline modeling prior authorization workflows in a PBM context.  
-Built with dbt-style transformations, analytics-ready marts, and validation logic to support operational and clinical decision-making.
+Production-style prior authorization workflow pipeline modeling PBM operational reporting and KPI tracking.
 
-**Tools:** SQL, Python, dbt, data validation, analytics engineering  
-📁 Folder: https://github.com/samisahami/pbm-prior-auth-ae-pipeline
+**Architecture Highlights**
+- Staging → Intermediate → Marts layering (dbt-style structure)
+- Incremental fact model using MERGE strategy for efficient updates
+- Data quality tests (accepted values, uniqueness, not null constraints)
+- Defined KPI layer for authorization volume, approval rate, and turnaround time
 
-### 🔹 **Healthcare Claims & Eligibility Analytics Pipeline**
-  
-End-to-end healthcare analytics engineering pipeline for claims, eligibility, and benefits data, designed to mirror production PBM and payer workflows.
- → https://github.com/samisahami/healthcare-claims-ae-pipeline
-**Tools:** SQL, Python, dbt-style modeling, data validation logic, Power BI / Tableau
+**Tech Stack:** SQL, Python, dbt, Snowflake / Databricks  
+📁 **Repo:** https://github.com/samisahami/pbm-prior-auth-ae-pipeline
+
+### 🔹 Healthcare Claims & Eligibility Analytics Pipeline
+
+Modeled a production-style claims and eligibility pipeline mirroring PBM and payer workflows.
+
+**Architecture Highlights**
+- Layered modeling structure (Staging → Intermediate → Marts)
+- Continuous eligibility period modeling and gap detection logic
+- Claims-to-eligibility validation joins to prevent coverage mismatches
+- Data quality tests for member IDs, coverage dates, and claim status integrity
+
+**Tech Stack:** SQL, Python, dbt-style modeling, Power BI / Tableau  
+📁 **Repo:** https://github.com/samisahami/healthcare-claims-ae-pipeline
 
 ### 🔹 Wallet Churn Prediction Pipeline
-End-to-end analytics engineering pipeline for churn analysis, including ETL, analytics modeling, feature engineering, metric definitions, and BI consumption. Includes ETL, feature engineering, and predictive modeling.  
-→ https://github.com/samisahami/wallet-churn-pipeline
+
+End-to-end analytics engineering pipeline for wallet churn analysis and predictive modeling.
+
+**Architecture Highlights**
+- ETL pipeline for transaction aggregation and feature engineering
+- Cohort-based retention modeling and churn labeling logic
+- Feature layer supporting predictive modeling (logistic regression)
+- Analytics-ready marts for BI consumption and KPI tracking
+
+**Tech Stack:** SQL, Python (Pandas, scikit-learn), analytics modeling  
+📁 **Repo:** https://github.com/samisahami/wallet-churn-pipeline
 
 ### 🔹 Web3 Growth & Retention Analytics
-On-chain behavioral analytics using SQL + Power BI to analyze user growth, retention, and drop-off patterns.  
-→ https://github.com/samisahami/PortfolioProjects/tree/main/crypto-growth-analytics-dashboard
 
-### 🔹 HR Analytics Dashboard
-Workforce analytics project analyzing attrition, tenure, and employee trends using BI dashboards and SQL.
+On-chain behavioral analytics project analyzing wallet growth, retention, and drop-off trends.
 
-**Tools:** Power BI, SQL
-→ https://github.com/samisahami/PortfolioProjects/tree/main/HR_Analytics_Dashboard
+**Highlights**
+- Cohort retention calculations using SQL window functions
+- KPI definitions for DAU, retention rate, and user growth
+- BI dashboard layer for executive reporting
+
+**Tech Stack:** SQL, Power BI  
+📁 **Repo:** https://github.com/samisahami/PortfolioProjects/tree/main/crypto-growth-analytics-dashboard
+
 
 ---
 
