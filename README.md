@@ -107,11 +107,7 @@ On-chain behavioral analytics project analyzing wallet growth, retention, and dr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samisahami&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/samisahami)
 
-graph LR
-    subgraph "Data Sources"
-        A[PBM Claims Data] --> B[Raw S3/Blob]
-        C[Auth Requests] --> B
-    end
+
 
 
 
