@@ -113,18 +113,5 @@ graph LR
         C[Auth Requests] --> B
     end
 
-    subgraph "Analytics Engineering (dbt)"
-        B --> D[stg_claims]
-        B --> E[stg_authorizations]
-        D & E --> F[int_joined_auth_lifecycle]
-        F --> G[fct_prior_auth_performance]
-    end
 
-    subgraph "Business Value"
-        G --> H[Approval Rate KPI]
-        G --> I[Turnaround Time SLA]
-    end
-
-    style G fill:#2c3e50,color:#fff,stroke:#3498db,stroke-width:2px
-    style F fill:#f39c12,color:#fff
 
