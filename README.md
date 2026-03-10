@@ -127,7 +127,7 @@ graph LR
     end
 
     style G fill:#2c3e50,color:#fff,stroke:#3498db,stroke-width:2px
-    style F fill:#f39c12,color:#fff
+    style F fill:#8e44ad,color:#fff
 
 
 
