@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3498DB&width=600&lines=Data+Analyst+%26+Analytics+Engineer;Healthcare+%26+Web3+Data+Specialist;Building+pipelines+people+actually+trust" alt="Typing SVG" />
+
 # Sam Sahami
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github)](https://github.com/samisahami/PortfolioProjects)
