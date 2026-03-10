@@ -2,6 +2,10 @@
 
 # Sam Sahami
 
+Sam Sahami
+Data Analyst | Analytics Engineer
+Healthcare • PBM • Web3 Analytics
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github)](https://github.com/samisahami/PortfolioProjects)
 [![GitHub](https://img.shields.io/badge/GitHub-gray?style=flat&logo=github)](https://github.com/samisahami)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sam-sahami-88841519b/)
