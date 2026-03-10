@@ -103,9 +103,10 @@ On-chain behavioral analytics project analyzing wallet growth, retention, and dr
 ---
 
 ### 📈 GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=samisahami&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samisahami&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=samisahami&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samisahami&theme=tokyonight" />
 
 ```mermaid
 graph LR
