@@ -27,7 +27,6 @@ Healthcare • PBM • Web3 Analytics
 [![Dune](https://img.shields.io/badge/Dune-Analytics-FF6B00?style=flat&logo=dune&logoColor=white)](https://dune.com/samansahami)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
 
 
 ---
