@@ -32,21 +32,11 @@ Healthcare • PBM • Web3 Analytics
 ---
 
 
-👋 I turn messy, real-world data into analytics models people actually trust and use.
+👋 I turn messy, real-world data into reliable analytics systems and decision-ready insights.
 
-Data Analyst & Analytics Engineer specializing in healthcare and Web3 analytics. 
-I build end-to-end systems that executives actually trust and use.
+Data Analyst & Analytics/Data Engineer specializing in healthcare, product analytics, and modern data platforms. I build end-to-end solutions using SQL, Python, dbt, cloud technologies, and BI tools to transform raw data into trusted reporting, analytics, and business intelligence.
 
-### What I do
-Build production-style SQL & Python pipelines for business and Web3 analytics
-
-Design analytics-ready data models (staging → marts) using analytics engineering principles
-
-Define and validate core business metrics to ensure consistency across teams
-
-Implement data quality checks and validation logic to prevent downstream reporting errors
-
-Translate complex data into insights that non-technical stakeholders can confidently act on
+My work focuses on data modeling, analytics/data engineering, data quality, and dashboard development that helps stakeholders make confident decisions.
 
 👉 See my work in the **Portfolio** button above.
 
