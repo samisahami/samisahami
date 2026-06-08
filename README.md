@@ -54,6 +54,29 @@ Translate complex data into insights that non-technical stakeholders can confide
 
 ## Featured Projects
 
+### 🔹🛒 Instacart Product Analytics Platform
+
+Production-style analytics engineering project built on the Instacart Online Grocery Dataset. Designed and implemented an end-to-end data platform using Python, DuckDB, dbt, and Power BI to transform raw e-commerce transaction data into analytics-ready models for product performance, customer retention, and reorder behavior analysis.
+
+Architecture Highlights
+- Built Python ingestion pipelines to process and load raw Instacart datasets
+- Designed DuckDB analytical warehouse for high-performance local analytics
+- Developed dbt staging, intermediate, and mart layer transformations
+- Implemented star-schema style data modeling and business metrics
+- Added data quality validation and testing using dbt
+- Created interactive executive dashboards in Power BI
+Business Analytics
+- Product performance and reorder rate analysis
+- Department and aisle-level sales insights
+- Customer segmentation and retention metrics
+- Purchase behavior and reorder trend analysis
+- Executive KPI reporting and self-service analytics
+- Technology Stack
+
+*Tech Stack:** Python SQL DuckDB dbt Power BI Data Modeling Analytics Engineering
+
+📁 **Repo:** https://github.com/samisahami/instacart-product-analytics-platform
+
 ### 🔹 PBM Prior Authorization Analytics Engineering Pipeline
 
 Production-style prior authorization workflow pipeline modeling PBM operational reporting and KPI tracking.
