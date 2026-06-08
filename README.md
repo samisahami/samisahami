@@ -93,20 +93,7 @@ End-to-end analytics engineering pipeline for wallet churn analysis and predicti
 **Tech Stack:** SQL, Python (Pandas, scikit-learn), analytics modeling  
 📁 **Repo:** https://github.com/samisahami/wallet-churn-pipeline
 
-### 🔹 Web3 Growth & Retention Analytics
 
-On-chain behavioral analytics project analyzing wallet growth, retention, and drop-off trends.
-
-**Highlights**
-- Cohort retention calculations using SQL window functions
-- KPI definitions for DAU, retention rate, and user growth
-- BI dashboard layer for executive reporting
-
-**Tech Stack:** SQL, Power BI  
-📁 **Repo:** https://github.com/samisahami/PortfolioProjects/tree/main/crypto-growth-analytics-dashboard
-
-
----
 
 ---
 
